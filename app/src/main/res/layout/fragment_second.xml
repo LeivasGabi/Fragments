@@ -8,7 +8,8 @@
     tools:context=".SecondFragment">
 
     <TextView
-        android:layout_width="351dp"
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
         android:layout_height="458dp"
         android:text="Fragment 2"
         android:textAlignment="center"

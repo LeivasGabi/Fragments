@@ -13,12 +13,12 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/fragmento1"
+                android:id="@+id/fragment1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Fragment 1"/>
             <Button
-                android:id="@+id/fragmento2"
+                android:id="@+id/fragment2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Fragment 2"/>
